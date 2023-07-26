@@ -1,3 +1,6 @@
+"""In Numpy, datatypes of Arrays need not to be defined unless a specific datatype is required. 
+   Numpy tries to guess the datatype for Arrays which are not predefined in the constructor function."""
+
 # Python Program to create a data type object
 import numpy as np
  
