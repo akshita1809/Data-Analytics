@@ -21,3 +21,7 @@ print ("\nSum of all array "
  
 # Adding two arrays: Performing Binary operations
 print ("\nArray sum:\n", a + b)
+
+# can also use
+# c=a+b
+# print("sum of the two arrays is:", c)
