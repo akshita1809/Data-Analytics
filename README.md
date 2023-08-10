@@ -8,7 +8,6 @@ Here, I've documented my projects, learning resources, and notes to track my pro
 - [About](#about)
 - [Projects](#projects)
 - [Learning Resources](#learning-resources)
-- [Getting Started](#getting-started)
 - [Contributions](#contributions)
 - [Contact](#contact)
 
