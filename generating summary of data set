@@ -20,3 +20,7 @@ print(f"Mean of 'column_name': {mean_column:.2f}")
 # Count the occurrences of values in a categorical column
 value_counts = data['categorical_column'].value_counts()
 print(value_counts)
+
+#This code snippet demonstrates loading data, displaying the first few rows, calculating summary statistics, calculating the mean of a specific column, 
+and counting occurrences of values in a categorical column. 
+You can further customize and expand this code to perform more in-depth analysis based on your dataset and research goals.
