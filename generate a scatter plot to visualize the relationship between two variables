@@ -1,1 +1,19 @@
 #data visualization using the Matplotlib library
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the CSV file into a Pandas DataFrame
+data = pd.read_csv('sample_data.csv')
+
+# Extract columns for the scatter plot
+x_values = data['x_column']
+y_values = data['y_column']
+
+# Create a scatter plot
+plt.figure(figsize=(8, 6))
+plt.scatter(x_values, y_values, c='blue', alpha=0.5)
+plt.title('Scatter Plot: Relationship between X and Y')
+plt.xlabel('X Column')
+plt.ylabel('Y Column')
+plt.grid(True)
+plt.show()
