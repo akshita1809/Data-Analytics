@@ -17,4 +17,6 @@ plt.xlabel('X Column')
 plt.ylabel('Y Column')
 plt.grid(True)
 plt.show()
-#
+#This code generates a scatter plot that visually represents the relationship between two variables. 
+You can customize the appearance of the plot, such as changing colors, labels, and markers, 
+to make it more informative and suitable for your data analysis goals.
